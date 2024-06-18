@@ -15,8 +15,7 @@ This assignment aims to familiarize you with the tools and configurations necess
    Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/windows11</h2></li>
    <h3>Windows Installation</h3>
    <ol>
-      <li><li>Go to the <a href = "https://www.microsoft.com/software-download/windows11">Microsoft Windows 11 download page<a/></li>
-      <li><li>Go to the <a href = "https://www.microsoft.com/en-us/software-download/windows10ISO">Microsoft Windows ISO<a/></li>
+      <li>Go to the <a href = "https://www.microsoft.com/en-us/software-download/windows10ISO">Microsoft Windows ISO<a/></li>
    </ol>
    <h3>What you need</h3>
       <ol>
